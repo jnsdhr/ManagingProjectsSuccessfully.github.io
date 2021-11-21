@@ -78,7 +78,7 @@ Möglichkeiten
 
 # 5. Fazit
 
-Ob im Projektmanagement, Compliance oder Hedging – die Mindmap zeigt, dass die Absicherung gegenüber Risiken jederzeit gewährleistet sein muss, damit Prozesse langfristig erfolgreich ablaufen können und die benötigte Liquidität stets sichergestellt ist.[^8]
+Ob im Projektmanagement --> verlinken, Compliance oder Hedging – die Mindmap zeigt, dass die Absicherung gegenüber Risiken jederzeit gewährleistet sein muss, damit Prozesse langfristig erfolgreich ablaufen können und die benötigte Liquidität stets sichergestellt ist.[^8]
 
 ![Beispielabbildung](Risikomanagement.jpg)
 
