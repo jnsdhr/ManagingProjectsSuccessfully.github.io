@@ -2,8 +2,40 @@
 title: Risikomanagement
 tags: agil klassisch
 author: jnsdhr
-anrechnung: k oder a
+anrechnung: k 
 ---
+
+ # 1. Warum Risikomanagement?
+ 
+Ob Gesetzesänderungen, Wechselkursschwankungen oder Umweltkatastrophen – Firmen unterliegen, je nach Branche und Unternehmensgröße, diversen Risiken, die mit unterschiedlichen Faktoren zusammenhängen.[^1]
+Dabei versteht man unter einem Risiko die Eintrittswahrscheinlichkeit eines negativen Ereignisses, welches zu einem möglichen Schaden führen kann.[^2]
+
+Es wird zwischen zwei Arten von Risiken unterschieden.
+
+interne Risiken:
+-  oft durch operative Abläufe oder Fehlentscheidungen verursacht
+- z.B.: Bereiche wie Produktentwicklung, Marketing, Versicherungen, Vertrieb etc.
+
+externe Risiken:
+- äußere Einflüsse, die Unternehmen nicht beeinflussen kann
+- z.B.: politische Entscheidungen, Wettbewerbs- und Marktsituationen, Rezession oder Steuererhöhungen[^3]
+
+Zentrale Aufgabe des Risikomanagements ist es diese frühmöglich zu erkennen und analysieren, sodass Gegenmaßnahmen definiert werden können. 
+
+Im Folgenden soll sich auf das klassische Risikomanagement beschränkt werden.
+
+# 2. Definition
+Unter Risikomanagement werden alle Aktivitäten zusammengefasst, die sich mit der Identifizierung von Risiken beschäftigen, sodass diese systematisch erfasst und bewertet werden können.[^4]  
+
+# 3. ISO 31000 als Basis-Norm
+Seit 2008 gilt die internationale Norm ISO 31000 Risiko Management als weltweit gültiger Standard im Risikomanagement, welcher drei wesentliche Prinzipien berücksichtigt: 
+1. Risikomanagement wird als Führungsaufgabe
+--> basiert auf dem Prinzip des PDCA-Zyklus (Plan-Do-Check-Act)
+2. Umsetzung des Top-Down-Ansatzes
+--> Anstoß zur Umsetzung der zu planenden Maßnahmen kommt von „oben“ und wird in die untergeordneten Hierarchiebereiche einer Organisation transportiert
+3. Berücksichtigung aller Risiken in einer Organisation 
+--> strategische/finanzielle/operative/personelle/regulatorische/politische/technische Risiken  
+
 
 Kurzbeschreibung zu Risikomanagement um ein erstes Verständnis dafür zu schaffen um was es hier geht.
 
